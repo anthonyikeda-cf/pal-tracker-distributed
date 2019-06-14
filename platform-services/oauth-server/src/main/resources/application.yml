@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: oauth-server
+
+server:
+  port: 8999
